@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+# Zettlr config
+.zettlr-config
+# OS files
+.DS_Store
+Thumbs.db
+# Large data files (if you don't use Git LFS)
+*.raw
+*.dat
