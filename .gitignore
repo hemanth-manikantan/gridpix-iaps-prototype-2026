@@ -8,3 +8,9 @@ Thumbs.db
 # Large data files (if you don't use Git LFS)
 *.raw
 *.dat
+# In case data files are included by mistake
+assets/QL_DataAnalysis/DataTake_*/**/*.arrow1
+assets/QL_DataAnalysis/DataTake_*/**/*.parquet
+assets/QL_DataAnalysis/DataTake_*/**/*.h5
+# Skip the ODF file and upload the csv file
+data/PrimaryDataSets.ods
