@@ -4,5 +4,5 @@
 - 50 um Be window (window ~1 cm? deep wrt Ti frame top)
 
 [Primary Data Set Log](/data/PrimaryDataSets.csv)
-
+- [09 June 2026] First Ramp-up and First light
 - [11 June 2026] Grid Voltage tuning with 55 Fe data for Ar/DME 160/40 ccpm
