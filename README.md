@@ -7,4 +7,4 @@
 - [09 June 2026] First Ramp-up and First light
 - [11 June 2026] Grid Voltage tuning with 55 Fe data for Ar/DME 160/40 ccpm 1.2 bar
 - [12 June 2026] Grid Voltage tuning with Cd 109 for Ar/DME 160/40 ccpm 1.2 bar
-- [17 June 2026] Grid Voltage tuning with simultaneous 55 Fe and 109 Cd for Ar/DME 160/40 ccpm 1.2 bar
+- [17 June 2026] Grid Voltage tuning with alternate 55 Fe and 109 Cd for Ar/DME 160/40 ccpm 1.2 bar
