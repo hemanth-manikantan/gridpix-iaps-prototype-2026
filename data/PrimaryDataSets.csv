@@ -37,4 +37,4 @@ DataTake_2026-06-24_16-17-51,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,5.9,A
 DataTake_2026-06-24_16-26-22,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1480,5.9,AnodeScan,55Fe02,Fe 55 AN7258,FALSE,NA,180,0.26,TRUE,"3600 cts/s, main peak 6646 fwhm 21%, escape peak <3606 "
 DataTake_2026-06-24_17-01-38,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1480,8.05,AnodeScan,HmtsuCu01,HamamatsuCu_12kV_-20.4V_Cu200umfilter ,FALSE,NA,180,0.22,TRUE,"2100 cts/s, main peak 9364, escape peak 6812, other two peaks at 3500 and 2080. Collimator without diaphragm."
 DataTake_2026-06-24_17-05-16,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1480,8.05,AnodeScan,HmtsuCu02,HamamatsuCu_12kV_-20.4V_Cu200umfilter ,FALSE,NA,600,0.8,TRUE,
-DataTake_2026-06-24_17-15-29,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,8.05,Ramp-down,,HamamatsuCu_12kV_-20.4V_Cu200umfilter ,FALSE,NA,334,0.1,FALSE,
+DataTake_2026-06-24_17-15-29,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,8.05,Ramp-down,HmtsuCu03,HamamatsuCu_12kV_-20.4V_Cu200umfilter ,FALSE,NA,334,0.1,FALSE,
