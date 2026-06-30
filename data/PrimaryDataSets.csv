@@ -33,11 +33,11 @@ DataTake_2026-06-23_15-46-06,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA
 DataTake_2026-06-23_16-04-51,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1480,5.9,DriftScan,55Fe04,Fe 55 AN7258,FALSE,NA,300,0.43,TRUE,"2884 cts/s, main peak 6644 fwhm 22%,escape peak <3540"
 DataTake_2026-06-23_16-10-37,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1580,5.9,DriftScan,55Fe05,Fe 55 AN7258,FALSE,NA,300,0.44,TRUE,"2833 cts/s, main peak 6699 fwhm 25%, escpae peak <3533"
 DataTake_2026-06-23_16-16-23,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1680,5.9,DriftScan,55Fe06,Fe 55 AN7258,FALSE,NA,300,0.45,TRUE,"2808 cts/s, main peak 6766 fwhm 24%, escape peak <3583"
-DataTake_2026-06-24_16-17-51,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,5.9,Ramp-up,,Fe 55 AN7258,FALSE,NA,448,0.5,FALSE,
-DataTake_2026-06-24_16-26-22,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1480,5.9,AnodeScan,55Fe01,Fe 55 AN7258,FALSE,NA,180,0.26,TRUE,"3600 cts/s, main peak 6646 fwhm 21%, escape peak <3606 "
+DataTake_2026-06-24_16-17-51,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,5.9,AnodeScan,55Fe01,Fe 55 AN7258,FALSE,NA,448,0.5,FALSE,
+DataTake_2026-06-24_16-26-22,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1480,5.9,AnodeScan,55Fe02,Fe 55 AN7258,FALSE,NA,180,0.26,TRUE,"3600 cts/s, main peak 6646 fwhm 21%, escape peak <3606 "
 DataTake_2026-06-24_17-01-38,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1480,8.05,AnodeScan,HmtsuCu01,HamamatsuCu_12kV_-20.4V_Cu200umfilter ,FALSE,NA,180,0.22,TRUE,"2100 cts/s, main peak 9364, escape peak 6812, other two peaks at 3500 and 2080. Collimator without diaphragm."
 DataTake_2026-06-24_17-05-16,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,480,NA,NA,1480,8.05,AnodeScan,HmtsuCu02,HamamatsuCu_12kV_-20.4V_Cu200umfilter ,FALSE,NA,600,0.8,TRUE,
-DataTake_2026-06-24_17-15-29,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,8.05,Ramp-down,,HamamatsuCu_12kV_-20.4V_Cu200umfilter ,FALSE,NA,334,0.1,FALSE,
+DataTake_2026-06-24_17-15-29,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,8.05,Ramp-down,HmtsuCu03,HamamatsuCu_12kV_-20.4V_Cu200umfilter ,FALSE,NA,334,0.1,FALSE,
 DataTake_2026-06-25_11-36-16,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,5.9,Ramp-up,,Fe 55 AN7258,FALSE,NA,506,0.7,FALSE,
 DataTake_2026-06-25_11-46-04,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,520,NA,NA,1520,5.9,AnodeScan,55Fe01,Fe 55 AN7258,FALSE,NA,180,0.3,TRUE,
 DataTake_2026-06-25_12-11-45,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,520,NA,NA,1520,8.05,AnodeScan,HmtsuCu01,HamamatsuCu_12kV_-20.09V_Cu200umfilter ,FALSE,NA,900,1.2,TRUE,"2425 cts/s, main peak 8990 fwhm 23%, escape peak 6499. Collimator without diaphragm, 8 cm of air."
@@ -58,4 +58,13 @@ DataTake_2026-06-26_15-24-05,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,565,NA
 DataTake_2026-06-26_15-32-41,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,565,NA,NA,1565,8.05,AnodeScan,,HamamatsuCu_12kV_-19.97V_Cu200umfilter ,FALSE,NA,180,0.3,TRUE,"3000 cts/s, usual complex of main line, escape peak and bremstrahlung visible"
 DataTake_2026-06-26_15-36-36,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,565,NA,NA,1565,8.05,AnodeScan,HmtsuCu06,HamamatsuCu_12kV_-19.97V_Cu200umfilter ,FALSE,NA,900,1.6,TRUE,
 DataTake_2026-06-26_15-52-07,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,580,NA,NA,1580,8.05,AnodeScan,HmtsuCu07,HamamatsuCu_12kV_-19.97V_Cu200umfilter ,FALSE,NA,900,1.7,TRUE,
-DataTake_2026-06-26_16-07-36,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,,,,,,Ramp-down,,HamamatsuCu_12kV_-19.97V_Cu200umfilter ,FALSE,NA,600,0.3,FALSE,
+DataTake_2026-06-26_16-07-36,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,,,,,8.05,Ramp-down,,HamamatsuCu_12kV_-19.97V_Cu200umfilter ,FALSE,NA,600,0.3,FALSE,
+DataTake_2026-06-30_14-55-18,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,5.9,Ramp-up,,Fe 55 AN7258,FALSE,NA,250,0.3,FALSE,
+DataTake_2026-06-30_14-59-42,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,580,NA,NA,1580,5.9,PolDFF,55Fe01,Fe 55 AN7258,FALSE,NA,300,0.3,TRUE,"3589 cts/s, main peak 5944"
+DataTake_2026-06-30_15-10-10,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,580,NA,NA,1580,8.7,PolDFF,Mo800LiF01,MoLiF800_2mmCu200umfilter_20kV_1mA_eps+0deg,FALSE,NA,600,0.03,TRUE,"75 cts/s, main peak 9922. eps rotation not initialized (eps~0, off by a couple of degrees visually). Cental ASIC illlumination."
+DataTake_2026-06-30_15-31-27,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,580,NA,NA,1580,8.7,PolDFF,Mo800LiF02,MoLiF800_2mmCu200umfilter_20kV_1mA_eps-30deg,FALSE,NA,600,0.03,TRUE,"Eps = -30 after initialization. 75 cts/s, main peak 9927, fwhm 21%. Off-center ASIC illlumination."
+DataTake_2026-06-30_15-43-21,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,580,NA,NA,1580,8.7,PolDFF,Mo800LiF03,MoLiF800_2mmCu200umfilter_20kV_1mA_eps-30deg,FALSE,NA,600,0.03,TRUE,"Eps = -30 after initialization (repeat of prev. measurement for no reason). 75.6 cts/s, main peak 10023, fwhm 25%. Off-center ASIC illlumination."
+DataTake_2026-06-30_15-56-44,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,580,NA,NA,1580,8.7,PolDFF,Mo800LiF04,MoLiF800_2mmCu200umfilter_20kV_1mA_eps-30deg,FALSE,NA,299,0.015,TRUE,"Eps = -30 after initialization (repeat of prev. measurement for no reason). Off-center ASIC illlumination. 75 cts/s, main peak 10007, fwhm 26%"
+DataTake_2026-06-30_16-14-32,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,580,NA,NA,1580,8.7,PolDFF,Mo800LiF05,MoLiF800_2mmCu200umfilter_20kV_1mA_eps-60deg,FALSE,NA,900,0.05,TRUE,Eps = -60. Central ASIC illumination.
+DataTake_2026-06-30_16-32-43,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,430,580,NA,NA,1580,8.7,PolDFF,Mo800LiF05,MoLiF800_2mmCu200umfilter_20kV_1mA_eps-30deg,FALSE,NA,900,0.05,TRUE,Eps = -30. Central ASIC illumination.
+DataTake_2026-06-30_16-49-29,W30-F11,ArDME8020_1.2bar_1cm,160/40,1421,,,,,,8.7,Ramp-down,,MoLiF800_2mmCu200umfilter_20kV_1mA_eps-30deg,FALSE,NA,216,0.008,FALSE,
