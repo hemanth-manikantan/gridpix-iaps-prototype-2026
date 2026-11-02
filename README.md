@@ -12,5 +12,5 @@
 | W30-F11 File | Description |
 | :--- | :--- |
 | `W30-F11_equal_2026-05-11_18-16-35.h5` | Equalization outer edge pixels disabled.|
-| `W30-F11_mask_2026-04-29_15-28-15` | Mask THL 1421 (913 e-) |
-| `W30-F11_mask_2026-11-02_17-46-00` | Mask THL 1412 (803 e-) 20 random hits in 2 mins recorded during test daq |
+| `W30-F11_mask_2026-04-29_15-28-15.h5` | Mask THL 1421 (913 e-) |
+| `W30-F11_mask_2026-11-02_17-46-00.h5` | Mask THL 1412 (803 e-) 20 random hits in 2 mins recorded during test daq |
